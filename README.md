@@ -7,8 +7,7 @@ This repository contains the implementation code for PhySimCast on the WeatherBe
 This project uses the same environment settings as OpenSTL.
 
 ```shell
-git clone [https://github.com/xingboliu123/simvpincepu-tcc5625.git](https://github.com/xingboliu123/simvpincepu-tcc5625.git)
-cd simvpincepu-tcc5625
+git clone [https://github.com/xingboliu123/physimcast.git](https://github.com/xingboliu123/physimcast.git)
 conda env create -f environment.yml
 conda activate OpenSTL
 python setup.py develop
